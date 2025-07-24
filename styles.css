@@ -95,6 +95,7 @@ a.dashboard-link {
   text-decoration: none;
   padding: 0.1em 0.2em;
   border-radius: 3px;
+  color: #303b53;
 }
 
 a.dashboard-link:visited,
